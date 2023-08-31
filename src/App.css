@@ -1,0 +1,71 @@
+
+body {
+  font-family:  Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.App {
+  margin-top: 50px;
+  width: 80%;
+  border: 12px solid red;
+  padding: 13px;
+}
+
+.header {
+  font-size: medium;
+  text-align: center;
+}
+
+
+.btn {
+  padding: 12px;
+  background-color: black;
+  color: white;
+  
+}
+
+.container {
+  background-color: rgb(255 255 255);
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  border-radius: 5px;
+  padding: 3rem 2rem;
+  width: 35rem;
+  max-height: max-content;
+  margin: auto;
+}
+
+.card-img {
+  margin: auto;
+  border-radius: 0.5rem;
+  width: 16rem; /* 384px */
+  height: 25rem;
+}
+
+.card-text {
+  margin: auto;
+  margin-top: 1rem;
+  font-weight: 500;
+  color: black;
+  font-family: Georgia;
+   
+}
+
+h1 {
+  /* border: 20px solid black; */
+  margin: 1rem 11rem;
+  color: black;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+li {
+  /* border: 2px solid black; */
+  margin-top: 5px;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: capitalize;
+}
+
